@@ -1,5 +1,7 @@
 <a href="https://discord.gg/gTsEzHjSpu"><img src="https://img.shields.io/discord/842068766108286997?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
 <br>
+
+# About
 - 👋 Hi, I’m @Ansonseti
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
