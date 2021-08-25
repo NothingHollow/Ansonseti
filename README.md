@@ -2,7 +2,7 @@
 <a href="https://discord.gg/gTsEzHjSpu"><img src="https://img.shields.io/discord/842068766108286997?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
   </div>
 <br>
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-oxygen.svg)](https://forthebadge.com)
+
 # About
 - 👋 Hi, I’m @Ansonseti
 - 👀 I’m interested in ...
