@@ -12,6 +12,8 @@ i know what are you thinking, why i am leaving this blank
   
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansonseti&layout=compact&theme=material-palenight"/>
 </a>
+
+<a href="https://discord.gg/gTsEzHjSpu"><img src="https://img.shields.io/discord/842068766108286997?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
 <!---
 Ansonseti/Ansonseti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
