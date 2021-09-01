@@ -1,4 +1,5 @@
 <div align="center">
+  <a href=""><img src="https://komarev.com/ghpvc/?username=ansonseti&color=blue" alt="Profile Views" /></a>
 <a href="https://discord.gg/gTsEzHjSpu"><img src="https://img.shields.io/discord/842068766108286997?color=5865F2&logo=discord&logoColor=white" alt="Discord server" /></a>
   </div>
 <br>
