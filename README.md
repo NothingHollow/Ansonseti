@@ -11,7 +11,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-i know what are you thinking, why i am leaving this blank
+yeah I'm leaving it blank :)
 <br>
 
 <a href="https://github.com/Ansonseti">
