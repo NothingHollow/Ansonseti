@@ -15,11 +15,11 @@ yeah I'm leaving it blank :)
 <br>
 
 <a href="https://github.com/Ansonseti">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ansonseti&show_icons=true&theme=radical" alt="Github Stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nothinghollow&show_icons=true&theme=radical" alt="Github Stats"/>
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansonseti&layout=compact&theme=material-palenight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nothinghollow&layout=compact&theme=material-palenight"/>
   
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=ansonseti&theme=dracula" alt="Github Trophy"/>
+  <img align="center" src="https://github-profile-trophy.vercel.app/?username=nothinghollow&theme=dracula" alt="Github Trophy"/>
 </a>
 <!---
 Ansonseti/Ansonseti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
